@@ -3,5 +3,5 @@
   "extends": [
     "config:base"
   ],
-  "schdeule": ["on friday and saturday"]
+  "schedule": ["on friday and saturday"]
 }
